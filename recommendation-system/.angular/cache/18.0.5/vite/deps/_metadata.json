@@ -1,0 +1,61 @@
+{
+  "hash": "667a2897",
+  "configHash": "40653d5a",
+  "lockfileHash": "1d6bc7f6",
+  "browserHash": "64b976d4",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "fe29b2a8",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "0c7a47de",
+      "needsInterop": false
+    },
+    "@angular/platform-browser-dynamic": {
+      "src": "../../../../../node_modules/@angular/platform-browser-dynamic/fesm2022/platform-browser-dynamic.mjs",
+      "file": "@angular_platform-browser-dynamic.js",
+      "fileHash": "5f612f3f",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "412d4173",
+      "needsInterop": false
+    },
+    "@popperjs/core": {
+      "src": "../../../../../node_modules/@popperjs/core/lib/index.js",
+      "file": "@popperjs_core.js",
+      "fileHash": "5110a7dd",
+      "needsInterop": false
+    },
+    "chart.js": {
+      "src": "../../../../../node_modules/chart.js/dist/Chart.js",
+      "file": "chart__js.js",
+      "fileHash": "15dc6675",
+      "needsInterop": true
+    },
+    "tslib": {
+      "src": "../../../../../node_modules/tslib/tslib.es6.js",
+      "file": "tslib.js",
+      "fileHash": "c0ffbab9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KFXDFSN3": {
+      "file": "chunk-KFXDFSN3.js"
+    },
+    "chunk-TARBBSN5": {
+      "file": "chunk-TARBBSN5.js"
+    },
+    "chunk-X6JV76XL": {
+      "file": "chunk-X6JV76XL.js"
+    }
+  }
+}
